@@ -9,3 +9,5 @@
 - *550975 - eduardo bartolomeo jablinski*
 - *98790 - elen cabral*
 - *550137 - guilherme riofrio*
+
+*rodar a aplicação junto com o backend do projeto https://github.com/caiorr1/backend-lista_tarefas*
